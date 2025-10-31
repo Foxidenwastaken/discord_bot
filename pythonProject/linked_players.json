@@ -1,0 +1,164 @@
+{
+    "official_bluemonk": {
+        "id": "76561199493095477",
+        "uuid": 952636636070567996,
+        "passedmaps": {}
+    },
+    "freshjdionne": {
+        "id": "76561199209777565",
+        "uuid": 890628290388295700,
+        "passedmaps": {
+            "12fae": {
+                "level": 32,
+                "diff": "expert+",
+                "hash": "bc1ec36d7a78658c0870fb9529f848c034a3d43e"
+            },
+            "c32d": {
+                "level": 35,
+                "diff": "expertplus",
+                "hash": "f402008042efaca4291a6633ebb6b562e4adcd87"
+            },
+            "3311c": {
+                "level": 29,
+                "diff": "expertplus",
+                "hash": "501a29ee46ebe24bc565cde9921ed57f344a9c7b"
+            }
+        }
+    },
+    "femboysontopfrfr": {
+        "user": "femboysontopfrfr",
+        "id": "76561199190344706",
+        "uuid": 1079882211546902650,
+        "passedmaps": {
+            "46cbb": {
+                "level": 35,
+                "diff": "expert+",
+                "hash": "1c8bd039435b193fe4a08da7aba5fcc6a64c804b"
+            }
+        }
+    },
+    "freddyfreddynico": {
+        "user": "freddyfreddynico",
+        "id": "nico",
+        "uuid": 704420139184947260,
+        "passedmaps": {
+            "12fae": {
+                "level": 2,
+                "diff": "ExpertPlus",
+                "hash": "bc1ec36d7a78658c0870fb9529f848c034a3d43e",
+                "score": 1200641,
+                "accuracy": 0.89747757,
+                "mods": "FS"
+            },
+            "2be47": {
+                "level": 28,
+                "diff": "ExpertPlus",
+                "hash": "DD6DA9DA76D7775AEFF5425C695D1B701925D416",
+                "score": 862724,
+                "accuracy": 0.44251448,
+                "mods": ""
+            }
+        }
+    },
+    "logi_feitingi": {
+        "user": "logi_feitingi",
+        "id": "76561199514052515",
+        "uuid": 1279938378045063242,
+        "passedmaps": {
+            "1a209": {
+                "level": 30,
+                "diff": "ExpertPlus",
+                "hash": "52570CF0E132C46EC33156507DD703A02B817510",
+                "score": 4605068,
+                "accuracy": 0.9072676,
+                "mods": "FS"
+            },
+            "12fae": {
+                "level": 32,
+                "diff": "ExpertPlus",
+                "hash": "bc1ec36d7a78658c0870fb9529f848c034a3d43e",
+                "score": 1243736,
+                "accuracy": 0.929691,
+                "mods": "FS"
+            },
+            "c32d": {
+                "level": 35,
+                "diff": "ExpertPlus",
+                "hash": "f402008042efaca4291a6633ebb6b562e4adcd87",
+                "score": 2459492,
+                "accuracy": 0.915809,
+                "mods": ""
+            }
+        }
+    },
+    "_awzzie_": {
+        "user": "_awzzie_",
+        "id": "awzzie",
+        "uuid": 1234617437299937430,
+        "passedmaps": {
+            "1a209": {
+                "level": 4,
+                "diff": "ExpertPlus",
+                "hash": "52570CF0E132C46EC33156507DD703A02B817510",
+                "score": 4459075,
+                "accuracy": 0.87850475,
+                "mods": ""
+            },
+            "12fae": {
+                "level": 2,
+                "diff": "ExpertPlus",
+                "hash": "bc1ec36d7a78658c0870fb9529f848c034a3d43e",
+                "score": 1264603,
+                "accuracy": 0.9452891,
+                "mods": ""
+            },
+            "3311c": {
+                "level": 29,
+                "diff": "ExpertPlus",
+                "hash": "501A29EE46EBE24BC565CDE9921ED57F344A9C7B",
+                "score": 576712,
+                "accuracy": 0.46951473,
+                "mods": "SS"
+            }
+        }
+    },
+    "foxiden": {
+        "user": "foxiden",
+        "id": "foxiden",
+        "uuid": 1004272158987538432,
+        "passedmaps": {
+            "1a209": {
+                "level": 4,
+                "diff": "ExpertPlus",
+                "hash": "52570CF0E132C46EC33156507DD703A02B817510",
+                "score": 4611528,
+                "accuracy": 0.9085403,
+                "mods": ""
+            },
+            "12fae": {
+                "level": 2,
+                "diff": "ExpertPlus",
+                "hash": "bc1ec36d7a78658c0870fb9529f848c034a3d43e",
+                "score": 1213294,
+                "accuracy": 0.9069357,
+                "mods": ""
+            },
+            "46cbb": {
+                "level": 32,
+                "diff": "ExpertPlus",
+                "hash": "1c8bd039435b193fe4a08da7aba5fcc6a64c804b",
+                "score": 6383467,
+                "accuracy": 0.7128069,
+                "mods": ""
+            },
+            "4054b": {
+                "level": 33,
+                "diff": "ExpertPlus",
+                "hash": "2c973d77ecdf4ab236bf054882708c366bfbd08c",
+                "score": 5809707,
+                "accuracy": 0.52253485,
+                "mods": ""
+            }
+        }
+    }
+}
